@@ -4,7 +4,7 @@ edición del fichero de lectura
 # una almohadilla
 ## dos almohadillas
 _negrita_
-'hola'
-"cursiva"
+hola
+*cursiva*
 
 salto de linea
